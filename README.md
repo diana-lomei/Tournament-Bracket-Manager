@@ -125,7 +125,7 @@ Pure functional utilities:
 - `nextPowerOfTwo(n)` — finds the smallest power of two ≥ n (e.g. 6 → 8)
 - `getSeededOrder(numSlots)` — recursively builds the standard bracket seeding order
 - `generateBracket(teams)` — assembles all rounds, seeds teams into slots, auto-advances byes
-- `getRoundName(roundIndex, totalRounds)` — returns `"Фінал"`, `"Півфінал"`, `"Чвертьфінал"`, or `"Раунд N"`
+- `getRoundName(roundIndex, totalRounds)` — returns `"Final"`, `"Semifinal"`, `"Quarter-final"`, or `"Round N"`
 
 ---
 
