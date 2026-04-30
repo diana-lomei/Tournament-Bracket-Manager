@@ -15,7 +15,7 @@
 - **Progress tracking** — a live progress bar in the header shows how many matches have been completed
 - **Responsive bracket canvas** — horizontally scrollable bracket with SVG Bézier connectors between rounds
 - **Example teams** — a one-click "Load example" button pre-fills 8 Ukrainian football clubs for quick testing
-- **Fully Ukrainian UI** — all labels, round names (Раунд, Чвертьфінал, Півфінал, Фінал), and messages are in Ukrainian
+- **Fully Ukrainian UI** — all labels, round names (Final, Semifinal, Quarter-final, Round N), and messages are in Ukrainian
 
 ---
 
